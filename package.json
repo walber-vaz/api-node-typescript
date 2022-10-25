@@ -1,0 +1,9 @@
+{
+  "name": "api-node-typescript",
+  "version": "0.0.1",
+  "description": "Create api node typescript",
+  "main": "index.js",
+  "repository": "git@github.com:walber-vaz/api-node-typescript.git",
+  "author": "Walber Vaz da Silva <wvs.walber@gmail.com>",
+  "license": "MIT"
+}
